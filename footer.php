@@ -9,8 +9,9 @@
         <div class="column" style="color:#eeeeee;">
             <b><a href="distribuidores.php" class="link">Distribuidores</a></b> <br>
             <span>LiuGong</span> <br>
-            <span>Unicarriers Forklift</span> <br>
+            <span>Genie</span> <br>
             <span>KAUP</span> <br>
+            <span>Cascade</span> <br>
         </div>
         <div class="column"></div>
         <div class="column" style="color:#eeeeee;">
@@ -26,8 +27,8 @@
     </div>
 </footer>
 
-<div style="width: 100%; background-color: #212121; color: #eeeeee; height: 30px; text-align: right;">
-    <span style="margin-right: 15px;">&copy; Montacargas acuña 2017</span>
+<div style="width: 100%; background-color: #212121; color: #eeeeee;  text-align: right; padding: 10px;">
+    <span style="margin-right: 15px;">&copy; Montacargas acuña 2019</span>
 </div>
 <style>
     .link {

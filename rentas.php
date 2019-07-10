@@ -84,6 +84,7 @@
                   <li>Montacargas 7 toneladas  GAS</li> 
                   <li>Montacargas 10 toneladas DIESEL </li>
                   <li>Montacargas 16 toneladas DIESEL</li>
+                  <li>Plataforma Genie Z-45</li>
               </ul>
           </div>
           <div class="column is-8">
@@ -99,13 +100,18 @@
                 </div>
 
                 <div class="column is-6">
-              <img src="./images/rentas/10ton.png" alt="">
+              <img src="./images/rentas/10t.jpeg" alt="">
               <h3>10 Toneladas</h3>
                 </div>
 
                 <div class="column is-6">
-              <img src="./images/rentas/IMG_0153.JPG" alt="">
+              <img src="./images/rentas/16t.jpeg" alt="">
               <h3>16 Toneladas</h3>
+                </div>
+
+                <div class="column is-6">
+              <img src="./images/rentas/z45.jpeg" alt="">
+              <h3>Z-45</h3>
                 </div>
 
               </div>

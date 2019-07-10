@@ -42,6 +42,7 @@
                             <li>Curso para Operadores </li>
                             <li>Venta y Servicio de Baterías Industriales </li>
                             <li>Grúas de Plataforma hasta 20 Tons.</li>
+                            <li>Renta de plataformas Genie.</li>
                         </ul>
                         <a href="servicios.php">Más información</a>
                     </div>
@@ -62,15 +63,15 @@
                 <div class="tile is-parent is-6">
                     <div class="tile is-child box">
                         <a href="distribuidores.php#liugong">
-                            <img src="./images/liugong.jpg" alt="" style="margin-top: 10px;">
+                            <img src="./images/liugong.jpg" alt="" style="margin-top: 80px;">
                         </a>
                     </div>
                 </div>
 
                 <div class="tile is-parent is-6">
                     <div class="tile is-child box">
-                        <a href="distribuidores.php#forklift">
-                            <img src="./images/unicarriers_forklift.png" alt="" class="image">
+                        <a href="distribuidores.php#genie">
+                            <img src="./images/genie_logo.jpg" alt="" class="image">
                         </a>
                     </div>
                 </div>

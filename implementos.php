@@ -76,10 +76,11 @@
     <div class="container">
         <h2 class="title">Implementos</h2>
         <h3 class="subtitle">Contamos con una amplía gama de Aditamentos, Horquillas y Accesorios para Montacargas. 
-        Somos distribuidores de la marca KAUP</h3>
+        Somos distribuidores de la marca KAUP y Cascade.</h3>
         <div class="columns">
             <div class="column is-4">
                 <div class="content">
+                <h4>KAUP</h4>
                     <ul>
                         <li>Aditamentos telescópicos</li>
                         <li>Estabilizadores de carga</li>
@@ -91,6 +92,18 @@
                         <li>Pinzas para ladrillos y bloques</li>
                         <li>Posicionadores de horquillas T160</li>
                     </ul>
+
+                    <h4>Cascade</h4>
+                    <ul>
+                        <li>Desplazadores laterales</li>
+                        <li>Posicionadores de horquillas</li>
+                        <li>Pinzas para bobinas de papel</li>
+                        <li>Empujadores/Recogedores</li>
+                        <li>Pinzas para Cajas de Cartón</li>
+                        <li>Manipuladores de cargas múltiples</li>
+                        <li>Cargadora por capas Layer Picker</li>
+                        <li>Pesaje móvil</li>
+                    </ul>
                 </div>
             </div>
             <div class="column is-8">
@@ -98,6 +111,22 @@
                 <br>
                 <img class="img-center" src="images/kaup_implemento.jpg" alt="">
             </div>
+        </div>
+
+    <br><br>
+        <div class="columns">
+          <div class="column is-3">
+            <img src="images/cascade/Sideshifter-55F-SSS_800x600.png" alt="" class="img-center">
+          </div>
+          <div class="column is-3">
+          <img src="images/cascade/ForkPositioner_K-Series.png" alt="" class="img-center">
+          </div>
+          <div class="column is-3">
+            <img src="images/cascade/PRC_MainLineup.png" alt="" class="img-center">
+          </div>
+          <div class="column is-3">
+          <img src="images/cascade/Rotator_65G.png" alt="" class="img-center">
+          </div>
         </div>
     </div>
 </section>

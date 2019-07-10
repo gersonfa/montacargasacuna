@@ -167,7 +167,7 @@
                 </div>
             </div>
 
-            <img src="./clients/soyamigo.png" style="display:block; margin:auto; margin-top: 1em; border-radius: 10px;" alt="">
+           <!--  <img src="./clients/soyamigo.png" style="display:block; margin:auto; margin-top: 1em; border-radius: 10px;" alt=""> -->
         </div>
 
     </div>

@@ -88,6 +88,7 @@
                             <li>Curso para Operadores </li>
                             <li>Venta y Servicio de Baterías Industriales </li>
                             <li>Grúas de Plataforma hasta 20 Tons.</li>
+                            <li>Renta de plataformas Genie.</li>
                         </ul>
                     </div>
                 </div>

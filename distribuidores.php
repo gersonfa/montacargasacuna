@@ -76,7 +76,7 @@
 <section class="section">
     <div class="container">
         <h1 class="title">Distribuidores</h1>
-        <h2 class="subtitle">Distribuidores autorizados LiuGong y Unicarriers Forklift</h2>
+        <h2 class="subtitle">Distribuidores autorizados <a href="https://www.liugong.com/en" target="_blank">LiuGong</a> y <a href="https://www.genielift.com/" target="_blank">Genie</a>.</h2>
         
         <br>
         <img class="img-center" style="width: 50%" src="images/liugong.jpg" alt="Montacargas acuña liugong" id="liugong">
@@ -202,33 +202,115 @@
             </div>
         </div>
         <br>
-        <img class="img-center" style="width: 50%" src="images/unicarriers_forklift.png" alt="" id="forklift">
+        <img class="img-center" style="width: 50%" src="images/genie-logo.png" alt="" id="genie">
         <br>
         <br>
         <div class="columns is-multiline">
-            <div class="column is-4" style="text-align:center;">
-                <a href="./datasheet/platinumii.pdf" target="_blank">
-                  <img src="images/forklift/platinumii.jpg" alt="">
+            <div class="column is-3" style="text-align:center;">
+                <a href="https://www.genielift.com/en/aerial-lifts/articulated-boom-lifts/z3020n" target="_blank">
+                  <img src="images/genie/articulated/z-3020nrj_rev-cutout-1 (1).jpg" alt="">
                 </a>
-                <span>Platinum II</span>
+                <span>Z-30/20 N RJ</span>
+            </div>
+            <div class="column is-3" style="text-align:center;">
+                <a href="https://www.genielift.com/en/aerial-lifts/articulated-boom-lifts/z3318" target="_blank">
+                  <img src="images/genie/articulated/z-3318_cutout-1.jpg" alt="">
+                </a>
+                <span>Z-33</span>
+            </div>
+            <div class="column is-3" style="text-align:center;">
+                <a href="https://www.genielift.com/en/aerial-lifts/articulated-boom-lifts/z4023n-z4023nrj" target="_blank"">
+                  <img src="images/genie/articulated/z-4023nrj_cutout-1.jpg" alt="">
+                </a>
+                <span>Z-40</span>
+            </div>
+            <div class="column is-3" style="text-align:center;">
+                <a href="https://www.genielift.com/en/aerial-lifts/articulated-boom-lifts/z6037dcfe" target="_blank">
+                  <img src="images/genie/articulated/z-6037dc_cutout-1.jpg" alt="">
+                </a>
+                <span>Z-60</span>
+            </div>
+        </div>
+
+        <br>
+
+        <div class="columns is-multiline">
+            <div class="column is-3" style="text-align:center;">
+                <a href="https://www.genielift.com/en/aerial-lifts/Slab-scissor-lifts/gs1330m" target="_blank">
+                  <img src="images/genie/scissors/cut-out---gs-1330m.jpg" alt="">
+                </a>
+                <span>GS-1330m</span>
+            </div>
+            <div class="column is-3" style="text-align:center;">
+                <a href="https://www.genielift.com/en/aerial-lifts/Slab-scissor-lifts/gs1930" target="_blank">
+                  <img src="images/genie/scissors/gs-1930_cutout-1.jpg" alt="">
+                </a>
+                <span>GS-1930</span>
+            </div>
+            <div class="column is-3" style="text-align:center;">
+                <a href="https://www.genielift.com/en/aerial-lifts/Slab-scissor-lifts/gs2032" target="_blank"">
+                  <img src="images/genie/scissors/gs-2032_10161.jpg" alt="">
+                </a>
+                <span>GS-2032</span>
+            </div>
+            <div class="column is-3" style="text-align:center;">
+                <a href="https://www.genielift.com/en/aerial-lifts/Slab-scissor-lifts/gs2632" target="_blank">
+                  <img src="images/genie/scissors/gs-2646av_cutout-1.jpg" alt="">
+                </a>
+                <span>GS-2646 av</span>
+            </div>
+        </div>
+
+        <br>
+
+        <div class="columns is-multiline">
+            <div class="column is-4" style="text-align:center;">
+                <a href="https://www.genielift.com/en/material-handling/telehandlers/gth636" target="_blank">
+                  <img src="images/genie/telehandler/gth-636_cutout-1.jpg" alt="">
+                </a>
+                <span>GTH-636</span>
             </div>
             <div class="column is-4" style="text-align:center;">
-                <a href="./datasheet/nomadplatinumii.pdf" target="_blank">
-                  <img src="images/forklift/nomad.jpg" alt="">
+                <a>
+                  <img src="images/genie/telehandler/gth-4014_cut-out.jpg" alt="">
                 </a>
-                <span>Nomad Platinum II</span>
+                <span>GTH-4014</span>
             </div>
             <div class="column is-4" style="text-align:center;">
-                <a href="./datasheet/go4.pdf target="_blank"">
-                  <img src="images/forklift/go4.jpg" alt="">
+                <a href="https://www.genielift.com/en/material-handling/telehandlers/gth1056" target="_blank"">
+                  <img src="images/genie/telehandler/gth-1056_cutout-1.jpg" alt="">
                 </a>
-                <span>GO4</span>
+                <span>GTH-1056</span>
             </div>
-            <div class="column is-4" style="text-align:center;">
-                <a href="./datasheet/fk.pdf" target="_blank">
-                  <img src="images/forklift/fk.jpg" alt="">
+        </div>
+
+        <br>
+
+
+        <div class="columns is-multiline">
+            <div class="column is-3" style="text-align:center;">
+                <a>
+                  <img src="images/genie/vertical/gr-20_cutout-1.jpg" alt="">
                 </a>
-                <span>FK</span>
+                <span>GR-20</span>
+            </div>
+            <div class="column is-3" style="text-align:center;">
+                <a>
+                  <img src="images/genie/vertical/gr-26j_cutout-1.jpg" alt="">
+                </a>
+                <span>GR-26</span>
+            </div>
+            <div class="column is-3" style="text-align:center;">
+                <a>
+                  <img src="images/genie/vertical/grc-12_cutout-1.jpg" alt="">
+                </a>
+                <span>GRC-12</span>
+            </div>
+            <div class="column is-3" style="text-align:center;">
+                <a>
+                  <img src="images/genie/vertical/qs-15w_cutout-1.jpg" alt="">
+                </a>
+                <span>QS-15</span>
             </div>
         </div>
     </div>
