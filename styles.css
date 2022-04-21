@@ -1,4 +1,75 @@
 .img-center {
-    display: block;
-    margin: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.carousel-item {
+  max-height: 650px;
+}
+
+.is-#ff6d37 {
+  color: #ff6d37;
+}
+
+.title-marked {
+  border-bottom: 2px solid #ff6d37;
+  display: inline-block;
+}
+
+.title-market-implement {
+  margin-left: 60px;
+  border-bottom: 2px solid blue;
+  display: inline-block;
+}
+
+.elevated {
+  -webkit-filter: drop-shadow(0px 0px 15px gray);
+  filter: drop-shadow(0px 0px 15px gray);
+}
+
+.elevated-liugong {
+  -webkit-filter: drop-shadow(0px 0px 3px #ff6d37);
+  filter: drop-shadow(0px 0px 3px #ff6d37);
+  margin-bottom: 5px;
+}
+
+.elevated-implement {
+  -webkit-filter: drop-shadow(0px 0px 3px blue);
+  filter: drop-shadow(0px 0px 3px blue);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.brand-img {
+  width: 100%;
+}
+
+.brand-img-2 {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  margin-top: 40px;
+}
+
+.brand-img-3 {
+  width: 60%;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+
+.line-break {
+  border-top: 4px solid #ff6d37;
+}
+
+.contact-btn {
+  margin-top: 60px;
+  background-color: #ff6d37;
+  border-radius: 10px;
+  border: 0;
+  color: white;
+  padding: 10px 20px;
 }
